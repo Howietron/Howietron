@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💻 技术栈
-主攻React及其相关生态，最近在不断尝试自己的各种小项目^_^
+主攻Java及其相关生态，最近在不断尝试自己的各种小项目^_^
 
 - 🥇 日常使用: 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
