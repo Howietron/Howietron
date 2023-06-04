@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - 1️⃣ 前端相关: 
     
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
     <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
