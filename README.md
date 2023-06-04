@@ -18,31 +18,37 @@ Here are some ideas to get you started:
 # 💻 技术栈
 主攻Java及其相关生态，最近在不断尝试自己的各种小项目^_^
 
-- 🥇 日常使用: 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Redux](https://img.shields.io/badge/-Redux-%23764abc?style=flat-square&logo=redux)
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+<p align="center">
+  - 1️⃣ 前端相关: 
+    <br/>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
 
-- 🥈 Working Use: 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) 
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code)
-
-- 🥉 Learning for: 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
-
--  Just Studied:
-![Koa2](https://img.shields.io/badge/-Koa2-%23764abc?style=flat-square)
-![Sequelize](https://img.shields.io/badge/-Sequelize-%23fff?style=flat-square&logo=sequelize)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+  - 2️⃣ 后端相关
+    <img alt="Java" src="https://img.shields.io/badge/Java-3572a5?style=flat-square&logo=CoffeeScript&logoColor=white">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-bc8362?style=flat-square&logo=Spring-Boot&logoColor=white">
+    <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-555555?style=flat-square&logo=Spring-Security&logoColor=white">
+    <img alt="RocketMQ" src="https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=Apache RocketMQ&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white">
+  - 3️⃣ 数据库相关:   
+    <br/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
+    <br/>
+  - 4️⃣ 运维相关
+    <br/>
+    <img alt="Maven" src="https://img.shields.io/badge/Maven-3D95CE?style=flat-square&logo=MakerBot&logoColor=white">
+    <img alt="GitLab" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=gitlab&logoColor=white">
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+    <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+</p>
