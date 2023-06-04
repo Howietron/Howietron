@@ -14,6 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello (\*/ω＼*) 👋
+
+<p align="center">
+  <a href="ganbeicing@foxmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white&longCache=true" alt="foxmail"></a>
+  <a href="https://twitter.com/Chris_Chen401" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white&longCache=true" alt="Twitter"></a>
+  <a href="https://github.com/Howietron" target="_blank"><img src="https://img.shields.io/badge/Github-262968.svg?&style=flat-square&logo=github&logoColor=white&longCache=true" alt="Github"></a>
+</p>
+
+
+<a href="https://github.com/Howietron/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Howietron&theme=algolia&count_private=true&show_icons=true" />
+</a>
+
+- :globe_with_meridians: 中文
+- :office: 北京 Beijing
+- :briefcase:  IT民工 IT Peasant worker
+- :alarm_clock: 7:00 - 24:00 [UTC+8](https://time.is/UTC+8)
+- :heart: 🏀 🏃‍ 💻
+
+## My Website :link:
+
+<https://wiki.howie.top>
+
+<a href="https://github.com/Howietron/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howietron&layout=compact" />
+</a>
 
 # 💻 技术栈
 主攻Java及其相关生态，最近在不断尝试自己的各种小项目^_^
