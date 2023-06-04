@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💻 技术栈
 主攻Java及其相关生态，最近在不断尝试自己的各种小项目^_^
 
-<p align="center">
+<p align="left">
   - 1️⃣ 前端相关: 
     <br/>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
