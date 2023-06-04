@@ -36,10 +36,11 @@ Here are some ideas to get you started:
     <img alt="RocketMQ" src="https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=Apache RocketMQ&logoColor=white">
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white">
   
-  3️⃣ 数据库相关:   
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">  
+  3️⃣ 数据库相关
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
   
   4️⃣ 运维相关
     <img alt="Maven" src="https://img.shields.io/badge/Maven-3D95CE?style=flat-square&logo=MakerBot&logoColor=white">
