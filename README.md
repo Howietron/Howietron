@@ -53,19 +53,19 @@ Here are some ideas to get you started:
     <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
   
-  2️⃣ Backend related:
+  2️⃣ Database related:
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
+  
+  3️⃣ Backend related:
     <img alt="Java" src="https://img.shields.io/badge/Java-3572a5?style=flat-square&logo=CoffeeScript&logoColor=white">
     <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-bc8362?style=flat-square&logo=Spring-Boot&logoColor=white">
     <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-555555?style=flat-square&logo=Spring-Security&logoColor=white">
     <img alt="RocketMQ" src="https://img.shields.io/badge/RocketMQ-D77310?style=flat-square&logo=Apache RocketMQ&logoColor=white">
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white">
-  
-  3️⃣ Database related:
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
   
   4️⃣ DevOps related:
     <img alt="Maven" src="https://img.shields.io/badge/Maven-3D95CE?style=flat-square&logo=MakerBot&logoColor=white">
