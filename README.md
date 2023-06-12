@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 <p align="left">
   
   1️⃣ Web related:
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-    <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+   <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3&logoColor=white">
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white">
+   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+   <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white">
   
   2️⃣ Backend related:
     <img alt="Java" src="https://img.shields.io/badge/Java-3572a5?style=flat-square&logo=CoffeeScript&logoColor=white">
