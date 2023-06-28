@@ -45,20 +45,20 @@ Here are some ideas to get you started:
 主攻Java及其相关生态，最近在不断尝试自己的各种小项目^_^
 
 <p align="left">
+  
+  1️⃣ Database related:
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="display: inline;">
+    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="display: inline;">
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" style="display: inline;">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" style="display: inline;">
 
-  1️⃣ Web related:
+  2️⃣ Web related:
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="display: inline;">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css3&logoColor=white" style="display: inline;">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3655FF?style=flat-square&logo=javascript&logoColor=white" style="display: inline;">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="display: inline;">
     <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" style="display: inline;">
     <img alt="React" src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white" style="display: inline;">
-
-  2️⃣ Database related:
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="display: inline;">
-    <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="display: inline;">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" style="display: inline;">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" style="display: inline;">
 
   3️⃣ Backend related:
     <img alt="Java" src="https://img.shields.io/badge/Java-3572a5?style=flat-square&logo=CoffeeScript&logoColor=white" style="display: inline;">
