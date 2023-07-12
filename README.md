@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Howietron/">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Howietron&theme=dark&show_icons=true)
+   
 </a>
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 - :globe_with_meridians: 中文
 - :office: 北京 Beijing
 - :briefcase:  IT民工 IT Peasant worker
