@@ -22,9 +22,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Howietron" target="_blank"><img src="https://img.shields.io/badge/Github-262968.svg?&style=flat-square&logo=github&logoColor=white&longCache=true" alt="Github"></a>
 </p>
 
-
 <a href="https://github.com/Howietron/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howietron&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Howietron&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
 - :globe_with_meridians: 中文
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 <https://wiki.howie.top>
 
 <a href="https://github.com/Howietron/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Howietron&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howietron&layout=compact" />
 </a>
 
 # 💻 Tech Stacks
