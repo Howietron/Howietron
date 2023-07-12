@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Howietron/">
-     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Howietron&show_icons=true&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howietron&layout=compact" />
 </a>
 
 - :globe_with_meridians: 中文
