@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <https://wiki.howie.top>
 
 <a href="https://github.com/Howietron/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howietron&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 
 # 💻 Tech Stacks
