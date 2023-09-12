@@ -61,3 +61,13 @@ Here are some ideas to get you started:
 <img alt="Maven" src="https://img.shields.io/badge/Maven-3D95CE?style=flat-square&logo=MakerBot&logoColor=white" style="display: inline;"> <img alt="GitLab" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=gitlab&logoColor=white" style="display: inline;"> <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" style="display: inline;"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" style="display: inline;"> <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins&logoColor=white" style="display: inline;"> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" style="display: inline;"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" style="display: inline;">
 
 </p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="13e113a1-75a9-4e33-af7c-19a724abfc72" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6a73092-2b79-4e3b-a739-4cb41350c8ce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+## :email: 联系
+- WeChat or QQ: <a :href="qqUrl" class='qq'>{{ QQ }}</a>
+- Email:  <a href="mailto:613872296@qq.com">613872296@qq.com</a>
+- GitHub: <https://github.com/Howietron>
+
