@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 </p>
 
 ## :email: 联系
-- WeChat or QQ: <a :href="qqUrl" class='qq'>{{ QQ }}</a>
+- WeChat or QQ: <a :href="qqUrl" class='qq'>{{ 613872296 }}</a>
 - Email:  <a href="mailto:613872296@qq.com">613872296@qq.com</a>
 - GitHub: <https://github.com/Howietron>
 
